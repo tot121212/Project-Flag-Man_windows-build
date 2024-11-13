@@ -7,6 +7,9 @@ Please note that controllers do not work in menus currently.
 ## Video Demo
 https://youtu.be/x-JFOjV3bZ0
 
+## Project Github
+https://github.com/tot121212/Project-Flag-Man
+
 ## Working Windows Build
 https://github.com/tot121212/Project-Flag-Man_windows-build
 
