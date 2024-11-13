@@ -1,6 +1,6 @@
 # Flag Man
 
-Run 'Flag Man.exe
+Run 'Flag Man.exe'
 
 ## Video Demo
 https://youtu.be/x-JFOjV3bZ0
