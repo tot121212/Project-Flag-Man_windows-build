@@ -2,6 +2,8 @@
 
 Run 'Flag Man.exe'
 
+Please note that controllers do not work in menus currently.
+
 ## Video Demo
 https://youtu.be/x-JFOjV3bZ0
 
